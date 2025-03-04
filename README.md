@@ -10,7 +10,7 @@ A coworking space/office-sharing directory using Flask + PostgreSQL with GCP int
 ### 🎵 TrackJam
 TrackJam is a web application that **gamifies Spotify listening**, allowing users to turn their daily music minutes into points for friendly competition. Built using **Next.js, MySQL, and the Spotify API**. TrackJam was **awarded "Most Innovative"** at the University of Melbourne's **CISSA Hackathon**. 🔗 [GitHub Repository](#)
 ### 📝 QuizPlus
-QuizPlus is a dynamic quiz platform designed to provide **personalized AI-driven feedback** on students' math solutions. Developed using **React, Node.js, Express, MySQL, JWT, and the OpenAI API**, it ensures a secure environment with **JWT authentication** while leveraging **AI-powered feedback mechanisms**. An **interactive canvas** allows students to solve problems directly on the platform. 🔗 [GitHub Repository](#)
+QuizPlus is a dynamic quiz platform designed to provide **personalized AI-driven feedback** on students' math solutions. Developed using **React, Node.js, Express, MySQL, JWT, and the OpenAI API**, it ensures a secure environment with **JWT authentication**🔗 [GitHub Repository](#)
 
 ## 🎯 Learning & Growth
 - 🌱 Currently learning **AWS Cloud Practitioner** & **Terraform**
