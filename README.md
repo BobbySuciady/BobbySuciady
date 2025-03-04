@@ -15,7 +15,6 @@ QuizPlus is a dynamic quiz platform designed to provide **personalized AI-driven
 ## 🎯 Learning & Growth
 - 🌱 Currently learning **AWS Cloud Practitioner** & **Terraform**
 - 📚 Exploring **AI for software automation**
-- 💡 Open to **collaborations on full-stack & AI/ML projects**
 
 ## 📫 Let's Connect!
 - **LinkedIn:** [linkedin.com/in/williamjasonsuciady](https://linkedin.com/in/williamjasonsuciady)
