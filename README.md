@@ -1,6 +1,4 @@
 # Hi there! 👋 I'm William  
-
-## 🚀 About Me
 I'm a **Computing and Software Systems** student at **the University of Melbourne**, passionate about **software engineering, AI, and cloud technologies**. I enjoy building systems that improve decision-making and enhance user experiences. My background includes full-stack development, AI/ML applications, and cloud computing.
 
 ## 📌 Notable Projects
