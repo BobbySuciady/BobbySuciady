@@ -3,11 +3,6 @@
 ## 🚀 About Me
 I'm a **Computing and Software Systems** student at **the University of Melbourne**, passionate about **software engineering, AI, and cloud technologies**. I enjoy building systems that improve decision-making and enhance user experiences. My background includes full-stack development, AI/ML applications, and cloud computing.
 
-## 🛠 Tech Stack
-- **Languages:** Python, Java, C, JavaScript, SQL
-- **Software Development:** React, Next, Node, Express, Django, Flask, PostgreSQL, MySQL
-- **Tools:** Git, Postman, Insomnia, Tailwind, Docker, GCP, AWS.
-
 ## 📌 Notable Projects
 ### 🌟 Space Penguin (v2)
 A coworking space/office-sharing directory using Flask + PostgreSQL with GCP integration. Features include an admin panel, role-based permissions, and a modern Next.js frontend.
