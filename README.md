@@ -5,8 +5,7 @@ I'm a **Computing and Software Systems** student at **the University of Melbourn
 
 ## 🛠 Tech Stack
 - **Languages:** Python, Java, C, JavaScript, SQL
-- **Software Development:** React, Next, Node, Express, Django, Flask
-- **Database:** PostgreSQL, MySQL
+- **Software Development:** React, Next, Node, Express, Django, Flask, PostgreSQL, MySQL
 - **Tools:** Git, Postman, Insomnia, Tailwind, Docker, GCP, AWS.
 
 ## 📌 Notable Projects
@@ -15,10 +14,10 @@ A coworking space/office-sharing directory using Flask + PostgreSQL with GCP int
 🔗 [Website](https://spacepenguin.io/) 
 
 ### 🎵 TrackJam
-TrackJam is a web application that **gamifies Spotify listening**, allowing users to turn their daily music minutes into points for friendly competition. Built using **Next.js, MySQL, and the Spotify API**. I led a **cross-functional team** of backend and frontend developers to implement core features and optimize the user experience. TrackJam was **awarded "Most Innovative"** at the University of Melbourne's **CISSA Hackathon**. 🔗 [GitHub Repository](#)
+TrackJam is a web application that **gamifies Spotify listening**, allowing users to turn their daily music minutes into points for friendly competition. Built using **Next.js, MySQL, and the Spotify API**. TrackJam was **awarded "Most Innovative"** at the University of Melbourne's **CISSA Hackathon**. 🔗 [GitHub Repository](#)
 
 ### 📝 QuizPlus
-QuizPlus is a dynamic quiz platform designed to provide **personalized AI-driven feedback** on students' math solutions. Developed using **React, Node.js, Express, MySQL, JWT, and the OpenAI API**, it ensures a secure environment with **JWT authentication** while leveraging **AI-powered feedback mechanisms**. An **interactive canvas** allows students to solve problems directly on the platform, while teachers can upload **step-by-step solutions** to guide students through their learning. 🔗 [GitHub Repository](#)
+QuizPlus is a dynamic quiz platform designed to provide **personalized AI-driven feedback** on students' math solutions. Developed using **React, Node.js, Express, MySQL, JWT, and the OpenAI API**, it ensures a secure environment with **JWT authentication** while leveraging **AI-powered feedback mechanisms**. An **interactive canvas** allows students to solve problems directly on the platform. 🔗 [GitHub Repository](#)
 
 ## 🎯 Learning & Growth
 - 🌱 Currently learning **AWS Cloud Practitioner** & **Terraform**
