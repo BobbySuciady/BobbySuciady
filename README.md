@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there! 👋 I'm William  
 
-<!--
-**BobbySuciady/BobbySuciady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a **Computing and Software Systems** student at **the University of Melbourne**, passionate about **software engineering, AI, and cloud technologies**. I enjoy building systems that improve decision-making and enhance user experiences. My background includes full-stack development, AI/ML applications, and cloud computing.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- **Languages:** Python, Java, C, JavaScript, SQL
+- **Software Development:** React, Next, Node, Express, Django, Flask
+- **Database:** PostgreSQL, MySQL
+- **Tools:** Git, Postman, Insomnia, Tailwind, Docker, GCP, AWS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Notable Projects
+### 🌟 Space Penguin (v2)
+A coworking space/office-sharing directory using Flask + PostgreSQL with GCP integration. Features include an admin panel, role-based permissions, and a modern Next.js frontend.
+🔗 [Website](https://spacepenguin.io/) 
+
+### 🎵 TrackJam
+TrackJam is a web application that **gamifies Spotify listening**, allowing users to turn their daily music minutes into points for friendly competition. Built using **Next.js, MySQL, and the Spotify API**, it features a real-time **leaderboard**, last played track history, and a favorite songs tracker. I led a **cross-functional team** of backend and frontend developers to implement core features and optimize the user experience. TrackJam was **awarded "Most Innovative"** at the University of Melbourne's **CISSA Hackathon**. 🔗 [GitHub Repository](#)
+
+### 📝 QuizPlus
+QuizPlus is a dynamic quiz platform designed to provide **personalized AI-driven feedback** on students' math solutions. Developed using **React, Node.js, Express, MySQL, JWT, and the OpenAI API**, it ensures a secure environment with **JWT authentication** while leveraging **AI-powered feedback mechanisms**. An **interactive canvas** allows students to solve problems directly on the platform, while teachers can upload **step-by-step solutions** to guide students through their learning. 🔗 [GitHub Repository](#)
+
+## 🎯 Learning & Growth
+- 🌱 Currently learning **AWS Cloud Practitioner** & **Terraform**
+- 📚 Exploring **AI for software automation**
+- 💡 Open to **collaborations on full-stack & AI/ML projects**
+
+## 📫 Let's Connect!
+- **LinkedIn:** [linkedin.com/in/williamjasonsuciady](https://linkedin.com/in/williamjasonsuciady)
+- **Portfolio:** [williamjasonsuciady.com](https://williamjasonsuciady.com)
+
+🚀 *Let's build something amazing together!*
