@@ -7,7 +7,7 @@ I'm a **CS** student at **the University of Melbourne**, and a **Software Engine
 Currently:
 - 🌱 Learning **AWS Cloud Practitioner** & **Terraform**
 - 📚 Exploring **AI for software automation**
-- 💼 Working on: an AI Powered software system for an accounting firm client and a Office Space Directory for a marketing firm client
+- 💼 Working on an **AI Powered software system** for an accounting firm client and a **Office Space Directory** for a marketing firm client
 
 Let's Connect!
 - **LinkedIn:** [linkedin.com/in/williamjasonsuciady](https://linkedin.com/in/williamjasonsuciady)
